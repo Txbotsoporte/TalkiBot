@@ -5,7 +5,7 @@ const mongoose = require('mongoose');
 const logo = 'https://i.imgur.com/ZCeiOY4.jpg';
 const apikasu = "https://apikasu.onrender.com"
 const apikey = "SebastianDevelop"
-const bot = new Telegraf('');
+const bot = new Telegraf('6379655708:AAGBn8oiAcKzdBnTYPkD_GSWALuw9ulL5B8');
 const mongoUrl = '';
 
 console.log(`
